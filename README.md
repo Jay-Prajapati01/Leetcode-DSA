@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 ## Impartial Game
 |  |
 | ------- |
@@ -48,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
