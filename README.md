@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
