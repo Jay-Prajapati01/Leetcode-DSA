@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Impartial Game
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
