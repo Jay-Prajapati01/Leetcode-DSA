@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
