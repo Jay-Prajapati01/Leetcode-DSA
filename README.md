@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -162,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
