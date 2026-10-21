@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
