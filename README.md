@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
