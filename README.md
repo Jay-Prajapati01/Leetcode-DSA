@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Jay-Prajapati01/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
